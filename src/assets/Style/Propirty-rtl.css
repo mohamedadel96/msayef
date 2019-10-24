@@ -1,0 +1,19 @@
+/* *{
+    font-family: 'Droid Arabic Kufi', serif;
+} */
+.input-group-addon:last-child{
+    border: none;
+}
+.dropdown-menu{
+    right: auto;
+}
+.hous-amenities .allowed ul{
+    padding-right: 0;
+}
+.card-text span:first-child{
+    margin-right: 0px;
+}
+
+.prop-search input,button.search{
+    font-family: 'Droid Arabic Kufi' !important;
+  }

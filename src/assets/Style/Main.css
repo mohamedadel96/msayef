@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700i|Tajawal:300,400,500,700,800');
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+body {
+    font-family: Rubik !important;
+    font-weight: 500;
+    background-color: rgba(250, 250, 252, 1);
+    /* overflow-x: hidden; */
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.2s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
+
+.fa-times {
+  float: right;
+  margin: -12px -12px 0 0;
+  color: #fff;
+  background: #085fbc;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px 10px;
+  font-size: 13px !important;
+  cursor: pointer;
+}
+
+.modal-mask {
+  position: fixed;
+  z-index: 9998;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: table;
+  transition: opacity 0.3s ease;
+}
+
+.modal-wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.modal-container {
+  width: 1000px;
+  margin: 0px auto;
+  padding: 20px 30px;
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
+  transition: all 0.3s ease;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.modal-header h3 {
+  margin-top: 0;
+  color: #42b983;
+}
+
+.modal-body {
+  margin: 20px 0;
+}
+
+.modal-default-button {
+  float: right;
+  color: white;
+}
+.modal-enter {
+  opacity: 0;
+}
+
+.modal-leave-active {
+  opacity: 0;
+}
+
+.modal-enter .modal-container,
+.modal-leave-active .modal-container {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}

@@ -1,0 +1,286 @@
+{
+  "host": {
+    "globals": {
+      "curency": "جنيه مصري"
+    },
+    "home": {
+      "navbar": {
+        "home": "الصفحة الرئيسية"
+      },
+      "header": {
+        "title_1": "أفضل منصة لك أفضل منصة لك        ",
+        "title_2": "مرحباً بالعالم. هذا موقع استضافة مضيف",
+        "card_title": "انضم لمصايف الآن",
+        "card_discription_p1": "مالك عقار؟  احصل على عائد مادي مرتفع من تأجير عقارك",
+        "card_dicription_p2": "ابدأ الآن",
+        "login_btn_1": "تسجيل دخول الآن",
+        "login_btn_2": "إنشاء حساب جديد باستخدام الفيس بوك",
+        "sign_up_link": "إنشاء حساب باستخدام الإيميل"
+      },
+      "content": {
+        "title": "البدء في كسب المال اليوم",
+        "description": "في أول 100 يوم ، لن تكون الشقة avilablein - أول 100 يوم لن تكون avilablein في أول 100 يوم ، لن تكون الشقة avilablein في أول 100 يوم لن تكون الشقة avilablein - أول 100 يوم لن تكون الشقة التقنى",
+        "image_title": "تبدأ كسب اليوم",
+        "image_description_1": "خالية من الرسوم",
+        "image_description_2": "الكثير من المدفوعات",
+        "image_description_3": "شيئا ما"
+      },
+      "footer": {
+        "paragraph": "جميع الحقوق محفوظة لدى مصايف @masyef 2019"
+      }
+    },
+    "calender": {
+      "calender": "التقويم",
+      "pending": "قيد الانتظار",
+      "CHAV":"تغيير الايام",
+      "approved":"موافق عليه",
+      "edit": "تعديل",
+      "CHRQ": "طلب تغيير",
+      "viewProp": "عرض الشقه",
+      "title": "العنوان",
+      "description": "الوصف" ,
+      "slctLable": "اختر ما تريد تعديله",
+      "avilable": "متاح",
+      "open": "فتح",
+      "close": "إغلاق",
+      "changePrice": "تغيير السعر",
+      "apply": "تطبيق"
+    },
+    "AuthPages": {
+      "tail": "في حالة ضغط على حجز يتم موافقة على شروط و الأحكام",
+      "book": "حجز",
+      "email": "البريد الاكتروني",
+      "username": "اسم المستخدم",
+      "login": "تسجيل الدخول",
+      "signUp": "سجل",
+      "password": "الرقم السرى",
+      "FP": "هل نسيت الرقم السرى?",
+      "signQ": "إذا لم يكن لديك حساب",
+      "loginQ": "إذا كان لديك حساب",
+      "facebookBtn": "تواصل مع الفيسبوك",
+      "nameInp": "اسم",
+      "RPass": "ضع كودك",
+      "code": "الكود",
+      "done": "تم",
+      "forgetPass": "اكتب رقم هاتفك",
+      "continue": "استمر",
+      "PN": "رقم الهاتف",
+      "UP": "ضع كلمة المرور الجديدة",
+      "newPass": "كلمة السر الجديدة",
+      "conPass": "تأكيد كلمة المرور",
+      "VC": "نرسل رمز لهاتفك",
+      "VQ": "إذا لم تتلقى الرسائل القصيرة",
+      "resend": "إعادة إرسال",
+      "confirm": "تؤكد",
+      "amount": "كمية"
+    },
+    "popup": {
+      "check": "تحقق من الكود",
+      "promo_code": "البرومو كود",
+      "payment_info": "معلومات الدفع",
+      "selectPM": "اختر طريقه الدفع",
+      "deposit": "عربون",
+      "youwillpay": "انت سوف تدفع",
+      "paymentMethod": "طريقة الدفع او السداد",
+      "PMsubTitle": "اختر وسيلة الدفع",
+      "PMbtn": "إضافة طريقة دفع جديدة",
+      "calender": "التقويم",
+      "timeLine": "الجدول الزمني",
+      "wallet": "محفظة نقود",
+      "bankAccount": "حساب البنك",
+      "editProfile": "تعديل الملف الشخصي",
+      "Terms": "أحكام وشروط",
+      "FAQ": "التعليمات",
+      "contactUs": "اتصل بنا",
+      "signOut": "خروج",
+      "CreatePaymentMethod": "إنشاء طريقة الدفع",
+      "optionDefault": "أختر..."
+    },
+    "MS_form": {
+      "property_location": {
+        "title": "عنوان العقار",
+        "form_select": "يقع عقارك في منطقة ... ؟",
+        "form_textarea": "العنوان",
+        "button": "استمر"
+      },
+      "property_details_1": {
+        "title": "تفاصيل العقار",
+        "form_input": "يقع عقارك في منطقة ... ؟",
+        "form_textarea": "العنوان",
+        "button": "استمر"
+      },
+      "property_details_2": {
+        "title": "تفاصيل العقار",
+        "form_select": {
+          "option_1": "نوع العقار",
+          "option_2": "شقة",
+          "option_3": "فيلا",
+          "option_4": "شاليه"
+        },
+        "form_sections": {
+          "section_1": "عدد غرف النوم",
+          "section_2": "عدد الحمامات",
+          "section_3": "عدد الأفراد"
+        },
+        "button": "حفظ"
+      },
+      "amenities": {
+        "title": "المزايا",
+        "form": {
+          "checkbox_1": "واي فاي",
+          "checkbox_2": "رؤية البحر",
+          "checkbox_3": "حديقة",
+          "checkbox_4": "حمام سباحة",
+          "checkbox_5": "تليفزيون",
+          "checkbox_6": "تكييف",
+          "checkbox_7": "سخان كهربائي",
+          "checkbox_8": "بلكونة",
+          "checkbox_9": "مجفف شعر",
+          "checkbox_10": "ستائر حاجبة لضوء الشمس",
+          "checkbox_11": "مكواة ومائدة للكي"
+        },
+        "button": "حفظ"
+      },
+      "earning": {
+        "title": "المبلغ الذي ستحصل عليه ?",
+        "input_label": "سعر الليلة الواحدة؟",
+        "note": "شاملة نسبة مصايف",
+        "hint": "شاملة نسبة مصايف",
+        "features": {
+          "f_1": "دعم فني 24 ساعة",
+          "f_3": "اعلانات عن وحدتك على فيس بوك، جوجل"
+        },
+        "money": {
+          "description1": "المبلغ الذي ستحصل عليه ",
+          "description2": "  عمولة مصايف ",
+          "curency": "جنيه مصري"
+        },
+        "button": "حفظ"
+      },
+      "polices": {
+        "title": "السياسات",
+        "radio": {
+          "title_1": "50 ٪ إلغاء المبلغ",
+          "description_1": "في أول 100 يوم ، لن تكون الشقة متاحة",
+          "title_2": "غير مسترد",
+          "description_2": "في الأيام 1 الأولى لن تكون الشقة متاحة"
+        },
+        "checkbox_title": "اخر فحص",
+        "checkbox_description": "في الأيام 1 الأولى لن تكون الشقة متاحة",
+        "button": "استمرار"
+      },
+      "terms_conditions": {
+        "title_1": "الشروط والأحكام",
+        "terms": {
+          "title_1": "العنوان يذهب هنا",
+          "description_1": "في أول 100 يوم ، لن تكون الشقة avilablein - أول 100 يوم لن تكون avilablein في أول 100 يوم ، لن تكون الشقة avilablein في أول 100 يوم لن تكون الشقة avilablein - أول 100 يوم لن تكون الشقة التقنى",
+          "title_2": "العنوان يذهب هنا",
+          "description_2": "في أول 100 يوم ، لن تكون الشقة avilablein - أول 100 يوم لن تكون avilablein في أول 100 يوم ، لن تكون الشقة avilablein في أول 100 يوم لن تكون الشقة avilablein - أول 100 يوم لن تكون الشقة التقنى",
+          "title_3": "العنوان يذهب هنا",
+          "description_3": "في أول 100 يوم ، لن تكون الشقة avilablein - أول 100 يوم لن تكون avilablein في أول 100 يوم ، لن تكون الشقة avilablein في أول 100 يوم لن تكون الشقة avilablein - أول 100 يوم لن تكون الشقة التقنى"
+        },
+        "alert": "بالضغط على 'تم' فأنت توافق على الشروطك والأحكام",
+        "button": "تم"
+      }
+    },
+    "App": {
+      "timeLine": {
+        "title": "الجدول الزمني",
+        "cards_types": {
+          "pending": "انتظار",
+          "accepted": "قبول",
+          "canceled": "إلغاء"
+        },
+        "cards": {
+          "title": "انتظار",
+          "date_from": "من",
+          "date_to": "إلى",
+          "pay_title": "ستدفع",
+          "button_1": "وافق",
+          "button_2": "إلغاء"
+        }
+      },
+      "wallet": {
+        "title": "محفظة نقود",
+        "dashboard": {
+          "title": "لوحة القيادة",
+          "total": "مجموع",
+          "pending": "قيد الانتظار",
+          "approved": "وافق",
+          "button": "سحب المال"
+        },
+        "transaction": {
+          "title": "عملية تجارية",
+          "cash": "كاش",
+          "cash_note": "إذا كان هناك ملاحظة يذهب هنا",
+          "vodafon": "فودافون كاش",
+          "vodafon_note": "إذا كان هناك ملاحظة يذهب هنا"
+        }
+      }
+    }
+  },
+  "guest": {
+    "navbar": {
+      "Home": "الرئيسية",
+      "Maps": "الخرائط",
+      "FAQ": "الأسئلة الأكثر شيوعاً",
+      "Blog": "مقالات",
+      "Auth": "تسجيل دخول/إنشاء حساب جديد"
+    },
+    "home": {
+      "search_sec": {
+        "btn_1": "المنطقة",
+        "c_1": "تسجيل الوصول",
+        "c_2": "تسجيل المغادرة",
+        "list": "زائر",
+        "btn_2": "بـحـث"
+      },
+      "search_res": {
+        "guest": "عدد الضيوف",
+        "bedroom": "غرف النوم",
+        "beds": "غرف مزدوجه",
+        "bathroom": "الحمامات",
+        "seeMore": "رؤية المزيد"
+      },
+      "featured": {
+        "h1": "Featured"
+      },
+      "article": {
+        "h1": "مقالات"
+      },
+      "mega_menu": {
+        "li": {
+          "Msayef": "مصايف",
+          "AboutUs": "عن مصايف",
+          "Map": "الخريطة",
+          "Press": "Press",
+          "Policies": "السياسات",
+          "Discover": "اكتشف",
+          "Trust": "ثقة وأمان",
+          "TravelCredit": "الائتمان السفر",
+          "GidtCards": "بطاقات ائتمانية",
+          "Blog": "المقالات",
+          "Hosting": "استضافة",
+          "WhyHost": "لماذا المضيف",
+          "Hospitality": "حسن الضيافة",
+          "ResponsibleHosting": "استضافة مسؤولة",
+          "CommunityCenter": "مركز اجتماعي"
+        }
+      }
+    },
+    "propirity": {
+      "checkIn": "وصول",
+      "checkOut": "مغادرة",
+      "Guest_Count": "عدد الضيوف",
+      "RTB": "طلب حجز",
+      "Description": "الوصف",
+      "prev": "السابق",
+      "next": "التالي",
+      "Amenities": "المزايا",
+      "NotAllowed": "غير مسموح",
+      "Location": "العنوان",
+      "Policy": "سياسة الإلغاء وقواعد المالك"
+    }
+  },
+  "Recommended Articles": "مقالات مقترحه"
+}

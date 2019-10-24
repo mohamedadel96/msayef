@@ -1,0 +1,31 @@
+/* *{
+    font-family: 'Droid Arabic Kufi', serif;
+} */
+.payment-one .paymentSec .pay{
+    padding-right: 0;
+}
+
+.payment-one .paymentSec .pay-2{
+    float: left;
+}
+
+.payment-one .total-pay span{
+    float: left;
+}
+.method label input{
+  
+    width: 100%;
+}
+
+.method h6{
+    text-align: right;
+    padding-left: 5%;
+}
+.input-group-addon:last-child{
+    border: none
+}
+@media (max-width: 991.99px) {
+    .method label{
+        width: 92%;
+    }
+}

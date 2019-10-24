@@ -1,0 +1,279 @@
+{
+  "host": {
+    "globals": {
+      "curency": "egp"
+    },
+    "home": {
+      "navbar": {
+        "home": "Home"
+      },
+      "header": {
+        "title_1": "the best platform for you the best platform for you",
+        "title_2": "Hello world this is masayef Host website",
+        "card_title": "join us now",
+        "card_discription_p1": "Are you home owner ? it’s time to make money",
+        "card_dicription_p2": "START NOW",
+        "login_btn_1": "login now",
+        "login_btn_2": "Continue with facebook",
+        "sign_up_link": "Sign up using email"
+      },
+      "content": {
+        "title": "Start making money today",
+        "description": "in the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilable",
+        "image_title": "START EARN TODAY",
+        "image_description_1": "Free from fees",
+        "image_description_2": "A lot of payments",
+        "image_description_3": "Some thing"
+      },
+      "footer": {
+        "paragraph": "All copyright received @masyef 2019"
+      }
+    },
+    "calender": {
+      "calender": "Calender",
+      "pending": "Pending",
+      "CHAV":"Change avilablity",
+      "approved":"Approved",
+      "edit": "Edit",
+      "CHRQ": "change request",
+      "viewProp": "view property",
+      "title": "title",
+      "description": "description",
+      "slctLable": "Choose what you need to change",
+      "avilable": "Avilable",
+      "open": "open",
+      "close": "close",
+      "changePrice": "Change Price",
+      "apply": "Apply"
+    },
+    "AuthPages": {
+      "tail": "If you click on a book you agree to the terms and conditions",
+      "book": "Book",
+      "email": "email",
+      "username": "username",
+      "login": "Login",
+      "signUp": "Sign up",
+      "password": "Password",
+      "FP": "Forget Password ?",
+      "signQ": "If you have not account",
+      "loginQ": "If you have account",
+      "facebookBtn": "Continue with facebook",
+      "nameInp": "Name",
+      "RPass": "put your code",
+      "code": "Code",
+      "done": "Done",
+      "forgetPass": "type your phone number",
+      "continue": "Continue",
+      "PN": "Phone Number",
+      "UP": "put your new password",
+      "newPass": "new password",
+      "conPass": "confirm password",
+      "VC": "we send code to your phone",
+      "VQ": "If you don’t received sms",
+      "resend": "Resend",
+      "confirm": "Confirm",
+      "amount": "Amount"
+    },
+    "popup": {
+      "check": "check",
+      "promo_code": "Promo code",
+      "payment_info": "Payment Info",
+      "selectPM": "Select Payment Method",
+      "deposit": "Deposit",
+      "youwillpay": "you will pay",
+      "paymentMethod": "payment Method",
+      "PMsubTitle": "Choose payment method",
+      "PMbtn": "Add new payment method",
+      "calender": "Calender",
+      "timeLine": "Time Line",
+      "wallet": "Wallet",
+      "bankAccount": "Bank account",
+      "editProfile": "Edit profile",
+      "Terms": "Terms and condition",
+      "FAQ": "FAQ",
+      "contactUs": "Contact us",
+      "signOut": "Sign Out",
+      "CreatePaymentMethod": "Create payment method",
+      "optionDefault": "choose..."
+    },
+    "MS_form": {
+      "property_location": {
+        "title": "property location",
+        "form_select": "In which area it will be available",
+        "form_textarea": "Address"
+      },
+      "property_details_1": {
+        "title": "property details",
+        "form_input": "In which area it will be available",
+        "form_textarea": "Address"
+      },
+      "property_details_2": {
+        "title": "property details",
+        "form_select": {
+          "option_1": "Property Type",
+          "option_2": "flat",
+          "option_3": "villa",
+          "option_4": "shaleh"
+        },
+        "form_sections": {
+          "section_1": "Bedrooms",
+          "section_2": "Bathroom",
+          "section_3": "Numbers of guests"
+        }
+      },
+      "amenities": {
+        "title": "Amenities",
+        "form": {
+          "checkbox_1": "Wifi",
+          "checkbox_2": "Sea View",
+          "checkbox_3": "Garden",
+          "checkbox_4": "Swimming Pool",
+          "checkbox_5": "TV",
+          "checkbox_6": "Air Conditioning",
+          "checkbox_7": "Heater",
+          "checkbox_8": "Balcony",
+          "checkbox_9": "Hairdryer",
+          "checkbox_10": "Blackout Curtains",
+          "checkbox_11": "Ironing Board"
+        }
+      },
+      "earning": {
+        "title": "How much want earn ?",
+        "input_label": "Apparment cost per night",
+        "note": "include masyef percentage",
+        "hint": "include masyef percentage",
+        "features": {
+          "f_1": "Support 24 hours",
+          "f_2": "Time saver for every book",
+          "f_3": "Doing the ADS for you in google facebook …etc"
+        },
+        "money": {
+          "description1": "you will get",
+          "description2": "We will take",
+          "curency": "egp"
+        }
+      },
+      "polices": {
+        "title": "Polices",
+        "radio": {
+          "title_1": "50% cancel refund",
+          "description_1": "in the first 100 days the apartment will not be avilable",
+          "title_2": "Non refund",
+          "description_2": "in the first 1 days the apartment will not be avilable"
+        },
+        "checkbox_title": "last check",
+        "checkbox_description": "in the first 1 days the apartment will not be avilable"
+      },
+      "terms_conditions": {
+        "title_1": "Terms&conditions",
+        "terms": {
+          "title_1": "Title goes here",
+          "description_1": "in the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilable",
+          "title_2": "Title goes here",
+          "description_2": "in the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilable",
+          "title_3": "Title goes here",
+          "description_3": "in the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilablein the first 100 days the apartment will not be avilable"
+        },
+        "alert": "By click “Done” you agree on Terms and Conditions"
+      }
+    },
+    "App": {
+      "timeLine": {
+        "title": "Time Line",
+        "cards_types": {
+          "pending": "Pending",
+          "accepted": "Accepted",
+          "canceled": "Canceled"
+        },
+        "cards": {
+          "title": "Pending",
+          "date_from": "from",
+          "date_to": "to",
+          "pay_title": "Will pay",
+          "button_1": "Approved",
+          "button_2": "Cancel"
+        }
+      },
+      "wallet": {
+        "title": "Wallet",
+        "dashboard": {
+          "title": "DashBoard",
+          "total": "Total",
+          "pending": "Pending",
+          "approved": "Approved",
+          "button": "Withdraw Money"
+        },
+        "transaction": {
+          "title": "Transaction",
+          "cash": "Cash",
+          "cash_note": "If There Is Note Goes Here",
+          "vodafon": "Vodafone cash",
+          "vodafon_note": "If There Is Note Goes Here"
+        }
+      }
+    }
+  },
+  "guest": {
+    "navbar": {
+      "home": "home",
+      "map": "map",
+      "faq": "faq",
+      "Blog": "Blog",
+      "Auth": "LOGIN/SIGNUP"
+    },
+    "home": {
+      "search_sec": {
+        "btn_1": "Area",
+        "c_1": "Check in",
+        "c_2": "Check out",
+        "list": "Guest",
+        "btn_2": "search"
+      },
+      "search_res": {
+        "guest": "guest",
+        "bedroom": "bedroom",
+        "beds": "double bed room",
+        "bathroom": "baths",
+        "seeMore": "see more"
+      },
+      "featured": {
+        "h1": "Featured"
+      },
+      "article": {
+        "h1": "Articles"
+      },
+      "mega_menu": {
+        "li": {
+          "Msayef": "Msayef",
+          "AboutUs": "About us",
+          "Map": "Map",
+          "Press": "Press",
+          "Policies": "Policies",
+          "Discover": "Discover",
+          "Trust": "Trust & Safety",
+          "TravelCredit": "Travel Credit",
+          "GidtCards": "Gidt Cards",
+          "Blog": "Blog",
+          "Hosting": "Hosting",
+          "WhyHost": "Why Host",
+          "Hospitality": "Hospitality",
+          "ResponsibleHosting": "Responsible Hosting",
+          "CommunityCenter": "Community Center"
+        }
+      }
+    },
+    "propirity": {
+      "checkIn": "check in",
+      "checkOut": "check out",
+      "Guest_Count": "Guest Count",
+      "RTB": "Request to Book",
+      "Description": "Description",
+      "prev": "Prev",
+      "next": "Next",
+      "Amenities": "Amenities",
+      "NotAllowed": "Not allowed",
+      "Location": "Location",
+      "Policy": "Cancellation Policy and House Rules"
+    }
+  }
+}

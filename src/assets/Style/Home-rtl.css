@@ -1,0 +1,86 @@
+/* *{
+    font-family: 'Droid Arabic Kufi', serif;
+} */
+
+.search-box .custom .form-group input,button.search ,.search-box select{
+    font-family: 'Droid Arabic Kufi' !important;
+  }
+
+.input-group-addon:last-child{
+    border-left:0;
+    border-left-style: none;
+}
+.dropdown-menu{
+    right: auto;
+}
+.hous-amenities .allowed ul{
+    padding-right: 0;
+}
+/* Start Section Result Search */
+
+
+.search-result .result .card .card-body .card-title{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(14, 82, 90, 1);
+    margin: 0;
+    margin-right: 14px;
+    margin-top: 10px;
+}
+.search-result .result .card .card-body .card-cost{
+    color: rgba(8, 95, 188, 1);
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    font-size: 14px;
+    font-weight: 500;
+}
+.search-result .result .card .card-body .card-text{
+    font-size: 14px;
+    color: rgba(146, 152, 177, 1);
+    margin-right: 14px;
+}
+.search-result .result .card .card-body .rating{
+    margin-bottom: 15px;
+    margin-right: 14px;
+}
+
+.search-result .result .cards .card-img-top{
+    height: 153px;;
+}
+.search-result .result .card .rating{
+    display: inline-block
+}
+.search-result .result .card span{
+    float:right;
+}
+.search-result .result .card .card-body .rating span{
+    color: rgba(249, 168, 37, 1);
+    padding-left: 5px;
+}
+
+.search-result .result .card .card-body .rating .rating-number{
+    line-height: 1;
+    padding-right: 10px;
+    color: rgba(146, 152, 177, 1);
+}
+.search-result .btn-mor{
+    color: rgba(255, 255, 255, 1);
+    height: 60px;
+    width: 303px;
+    background-color: rgba(146, 152, 177, 1);
+    border: 0;
+    border-radius: 8px;
+    display: block;
+    margin:  0 auto;
+}
+.featured .small-img h3, .featured .img-tall h3{
+    right: 25px;
+}
+/* End Section Result Search */
+
+.dropdown-menu{
+    right:auto
+}
